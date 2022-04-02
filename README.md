@@ -1,5 +1,8 @@
 # MHRSLite Presentation
 
+### Türkiye’deki devlet hastanelerinden hastaların randevu alabildiği, görüntüleyebildiği MHRS benzeri bir randevu sistemi projesi
+
+
 Proje private'dır kodlarıma bakmak isteyen firmaları 'collaborators' olarak ekleyebilirim. <br/>
 <a href="mailto:umutylmz.ce@gmail.com">Mail gönderebilirsiniz -> umutylmz.ce@gmail.com</a>
 
@@ -8,7 +11,8 @@ Site:http://mhrslite.somee.com/
 Eklenecekler
 --------------
 -Farketmezler aktif hale getirilecek <br/>
--Daha çok doktor eklenecek
+-Daha çok doktor eklenecek <br/>
+-Loglama eklenecek
 
 Anasayfa
 <img src="https://github.com/ylmzumut/MHRSLite_CorePresn/blob/main/presentation_pictures/anasayfa.jpg" />
